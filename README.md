@@ -13,8 +13,7 @@ programa que faz a migração de um projeto transpilado em react para que funcio
         python3 main.pyw
 
 ## Erros comuns:
-    No linux pode ocorrer um erro referente ao Tk
-    sendo necessario instalar a biblioteca tk no sistema 
+    No linux pode ocorrer um erro referente ao Tk sendo necessario instalar a biblioteca tk no sistema 
     solução:
         manjaro / archlinux-based:
             pacman -S tk
