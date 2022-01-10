@@ -1,7 +1,7 @@
 # compilador-react-django
 programa que faz a migração de um projeto transpilado em react para que funcione em um sistema django
 
-![IMAGEM](https://WalterSilva5/compilador-react-django/master/docs/sample.jpeg)
+![IMAGEM](https://raw.githubusercontent.com/WalterSilva5/compilador-react-django/main/docs/sample.jpeg)
 
 ## Obs:
     Testado em:
